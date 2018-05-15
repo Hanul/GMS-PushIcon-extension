@@ -1,5 +1,5 @@
 # GMS-PushIcon-extension
-GameMaker: Studio 자체로는 불가능한 Android의 푸시 아이콘을 변경하는 익스텐션입니다.
+GameMaker: Studio 자체로는 불가능한 Android의 푸시 아이콘을 변경할 수 있게 해주는 익스텐션입니다.
 
 ## 설치 방법
 Extensions에서 `PushIconExtension.gmez`를 Import 합니다.
